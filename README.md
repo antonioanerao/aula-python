@@ -23,7 +23,7 @@ Esta grade visa ensinar os primeiros passos na programação utilizando Python d
 
 #### Aula 3: Operações Matemáticas
 
-- Introdução às operações: adição, subtração, multiplicação e divisão.
+- Introdução às operações em Python: adição, subtração, multiplicação e divisão.
 - Usando variáveis para fazer contas
 - Exercício
 
