@@ -8,7 +8,7 @@ Esta grade visa ensinar os primeiros passos na programação utilizando Python d
 
 #### Aula 1: O que é Programação?
 
-- Introdução ao conceito de programação.
+- Introdução ao conceito de programação
 - O que podemos fazer com Python?
 - Configurando o ambiente para programar
 - Meu primeiro programa: "Hello world!"
@@ -17,19 +17,19 @@ Esta grade visa ensinar os primeiros passos na programação utilizando Python d
 #### Aula 2: Variáveis – Guardando Informações
 
 - O que são variáveis?
-- Tipos básicos: texto (strings) e números.
-- Como usar variáveis para armazenar dados.
+- Tipos básicos: texto (string) e número (int) 
+- Como usar variáveis para armazenar dados
 - Exercício
 
 #### Aula 3: Operações Matemáticas
 
 - Introdução às operações: adição, subtração, multiplicação e divisão.
-- Usando variáveis para fazer contas.
+- Usando variáveis para fazer contas
 - Exercício
 
 ### Módulo 2: Estruturas de Decisão
 
-**Objetivo:** Ensinar como o código pode tomar decisões baseado em condições.
+**Objetivo:** Como o código pode tomar decisões baseado em condições.
 
 #### Aula 4: Condicionais – Tomando Decisões
 
@@ -40,7 +40,7 @@ Esta grade visa ensinar os primeiros passos na programação utilizando Python d
 #### Aula 5: Brincando com Condições
 
 - Aprofundamento em condicionais com mais opções.
-- Exercício: Criar um programa que decide se o usuário pode jogar videogame baseado na hora do dia.
+- Exercício: Criar um programa que decide se o usuário pode jogar videogame baseado na hora do dia
 
 ### Módulo 3: Repetições
 
@@ -54,6 +54,6 @@ Esta grade visa ensinar os primeiros passos na programação utilizando Python d
 
 #### Aula 7: Laços de Repetição com while
 
-- Diferenças entre for e while.
+- Diferenças entre for e while
 - Quando usar o while.
 - Exercício
